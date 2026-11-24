@@ -1,0 +1,20 @@
+VERİ KALİTESİ RAPORU - EGFR (CHEMBL203)
+========================================
+Ham veri: 26600 kayıt
+Hedef = CHEMBL203: 26600 kayıt
+Tip = IC50: 26600 kayıt
+Relation = '=': 19719 kayıt
+Birim = nM: 19646 kayıt
+pChEMBL değeri var: 19378 kayıt
+Veri geçerlilik uyarısı yok: 19378 kayıt
+Potansiyel duplicate işaretli değil: 17272 kayıt
+Mutant olmayan (wild-type) assay: 13459 kayıt
+SMILES var: 13442 kayıt
+Geçerli SMILES (standardizasyon sonrası): 13442 kayıt
+Benzersiz molekül (median ile birleştirilmiş): 9897 kayıt
+
+Tuz/solvent içeren kayıt (temizlenmeden önce): 264
+Geçersiz SMILES nedeniyle elenen: 0
+Birleştirilen duplicate kayıt sayısı: 3545
+Ölçümleri arasında std > 1 olan molekül: 413
+pChEMBL medyan: 6.90  min: 4.00  max: 11.00
